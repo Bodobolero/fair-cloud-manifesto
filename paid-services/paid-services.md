@@ -5,7 +5,7 @@ paid per use services that you pay for but that are free from commercials and do
 
 ## Blende, a pay per use, commercial free news aggregator
 
-At (Blendle)[https://blendle.com/] you can read individual articles from leading magazines and newspapers for a small fee.
+At [Blendle](https://blendle.com/) you can read individual articles from leading magazines and newspapers for a small fee.
 
 It provides apps for the major mobile devices that are free from commercials.
 
