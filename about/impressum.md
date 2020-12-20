@@ -7,7 +7,7 @@ Schellingstrasse 2
 ```
 
 Kontakt:
-E-Mail:	fach1 at  familie-bendel.de
+E-Mail:	contact at fair-cloud-manifesto.de
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
