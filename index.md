@@ -17,11 +17,19 @@ The current situation is dangerous for our freedom and for our privacy – and e
 
 **Choice 1: not using the service** – no service should collect data about you if you do not want to use it – not even indirectly if your friends are using it
 
+[Examples of violations](no-opt-out-services/violating-opt-out-services.md)
+
 **Choice 2:** “free” services **financed by advertisements** and/or “free” services financed collecting data about you to sell your data
+
+[Examples](advertisement-services/services-selling-data.md)
 
 **Choice 3: paid per use services** that you pay for but that are free from commercials and do not sell your data or collect it for purposes other than optimizing the specific service or set of services that you subscribed to
 
+[Examples](paid-services/paid-services.md)
+
 **Choice 4:** optionally **free services** curated and provided by **us, the community**
+
+[Examples](community-services/community-services.md)
 
 We honor that **creating content** and creating services is sometimes very costly and **requires resources** like salary for people, cost to run computer infrastructure, et cetera.
 
