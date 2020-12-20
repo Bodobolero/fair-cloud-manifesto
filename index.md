@@ -1,5 +1,5 @@
 # The fair cloud manifesto
-##The problem
+## The problem
 
 Many services on the internet make money with advertisements – currently many of us are annoyed by noisy, slowly loading pages and popups.
 
@@ -7,7 +7,7 @@ These services seem to be offered for free – but in may cases we have become t
 
 The current situation is dangerous for our freedom and for our privacy – and even more so for the privacy and freedom of our children and grand-children.
 
-##The solution
+## The solution
 
 **This fair cloud manifesto demands:**
 
