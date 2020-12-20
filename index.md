@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# The fair cloud manifesto
+##The problem
 
-You can use the [editor on GitHub](https://github.com/Bodobolero/fair-cloud-manifesto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Many services on the internet make money with advertisements – currently many of us are annoyed by noisy, slowly loading pages and popups.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These services seem to be offered for free – but in may cases we have become the product and the data about us has become the product that these services sell to third parties.
 
-### Markdown
+The current situation is dangerous for our freedom and for our privacy – and even more so for the privacy and freedom of our children and grand-children.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##The solution
 
-```markdown
-Syntax highlighted code block
+**This fair cloud manifesto demands:**
 
-# Header 1
-## Header 2
-### Header 3
+**For every major service category we want a choice:**
 
-- Bulleted
-- List
+**A choice between**
 
-1. Numbered
-2. List
+**Choice 1: not using the service** – no service should collect data about you if you do not want to use it – not even indirectly if your friends are using it
 
-**Bold** and _Italic_ and `Code` text
+**Choice 2:** “free” services **financed by advertisements** and/or “free” services financed collecting data about you to sell your data
 
-[Link](url) and ![Image](src)
-```
+**Choice 3: paid per use services** that you pay for but that are free from commercials and do not sell your data or collect it for purposes other than optimizing the specific service or set of services that you subscribed to
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Choice 4:** optionally **free services** curated and provided by **us, the community**
 
-### Jekyll Themes
+We honor that **creating content** and creating services is sometimes very costly and **requires resources** like salary for people, cost to run computer infrastructure, et cetera.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bodobolero/fair-cloud-manifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Those who provide these resources have a fair right to be re-funded** for their efforts and even for a fair amount of profit.
 
-### Support or Contact
+**What this manifesto demands is that we end users can decide** whether we pay directly – with money – for the service instead of being bombarded with commercials and instead of data being collected on every interaction with the service for the purpose of creating a profile about us.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The manifesto does **not** prescribe how these paid services are delivered.
+
+**One possible solution** for an essential infrastructure for an alternative business model is a standardized, anonymous (like cash in the physical world) **micro-payment system** that allows the user of a service to **directly pay** the money **to the content producer**.
+
+A peer to peer payment system would be democratic and fair in the sense that the content producer or service provider would directly benefit from his efforts to provide the service.
+
+This is in contrast to the current situation where huge corporations that play the role of the content aggregators or intermediaries benefit the most and not the content producers like artists, musicians, authors or journalists.
