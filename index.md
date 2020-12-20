@@ -51,5 +51,5 @@ This is in contrast to the current situation where huge corporations that play t
 
 
 [About me](about/aboutme.md)
-[Impressum](about/mpressum.md)
+[Impressum](about/impressum.md)
 [Datenschutzerklärung](about/Datenschutzerklaerung.md)
