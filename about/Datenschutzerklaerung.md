@@ -14,13 +14,15 @@ Server-Log- Files
 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log Files, die Ihr Browser automatisch an uns übermittelt. Dies sind:
 
-Browsertyp und Browserversion
-verwendetes Betriebssystem
-Referrer URL
-Hostname des zugreifenden Rechners
-Uhrzeit der Serveranfrage
+* Browsertyp und Browserversion
+* verwendetes Betriebssystem
+* Referrer URL
+* Hostname des zugreifenden Rechners
+* Uhrzeit der Serveranfrage
+
 Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachträglich zu prüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.
  
 SSL-Verschlüsselung
+
 Diese Seite nutzt aus Gründen der Sicherheit und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel der Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSLVerschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
 
