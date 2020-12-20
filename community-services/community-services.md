@@ -1,4 +1,4 @@
-# free services, community driven
+# Free services, community driven
 
 This category provides examples of free services curated and provided by us, the community
 

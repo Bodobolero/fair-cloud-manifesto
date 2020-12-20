@@ -1,4 +1,4 @@
-# services **financed by advertisements**
+# Services **financed by advertisements**
 
 In this category we provide examples of services that seem to be "free" but are collecting data about you and selling that data - thus you become the product
 
