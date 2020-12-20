@@ -1,0 +1,1 @@
+# The fair cloud manifesto
