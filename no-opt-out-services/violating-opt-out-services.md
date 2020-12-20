@@ -11,6 +11,6 @@ buying the ads and page impressions.
 
 However facebook also tracks you if you are not using facebook and even non-users.
 
-https://lifehacker.com/find-out-how-facebook-tracks-you-even-when-youre-not-us-1841306557
+(Facebook tracks us when we are not using it)[https://lifehacker.com/find-out-how-facebook-tracks-you-even-when-youre-not-us-1841306557]
 
-https://nakedsecurity.sophos.com/2018/04/18/facebook-3-reasons-were-tracking-non-users/
+(Facebook even tracks non-users)[https://nakedsecurity.sophos.com/2018/04/18/facebook-3-reasons-were-tracking-non-users/]
