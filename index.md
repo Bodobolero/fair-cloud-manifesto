@@ -44,3 +44,12 @@ The manifesto does **not** prescribe how these paid services are delivered.
 A peer to peer payment system would be democratic and fair in the sense that the content producer or service provider would directly benefit from his efforts to provide the service.
 
 This is in contrast to the current situation where huge corporations that play the role of the content aggregators or intermediaries benefit the most and not the content producers like artists, musicians, authors or journalists.
+
+
+
+
+
+
+[About me](about/aboutme.md)
+[Impressum](about/mpressum.md)
+[Datenschutzerklärung](about/Datenschutzerklaerung.md)
