@@ -1,1 +1,1 @@
-# The fair cloud manifesto
+# [The fair cloud manifesto](https://bodobolero.github.io/fair-cloud-manifesto/)
